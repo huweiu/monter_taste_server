@@ -1,0 +1,2 @@
+# monter_taste_server
+这是一个基于nodejs+express框架的服务系统，为妈妈的味道前台和后台管理系统提供服务
